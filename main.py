@@ -1,4 +1,5 @@
-def my_function(fname):
+
+def my_function(fmycar):
   print(fname + " Refsnes")
 
 my_function("Emil")
