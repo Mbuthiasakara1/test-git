@@ -1,5 +1,5 @@
 
-def my_function(fname):
+def my_function(fmycarr):
   print(fname + " Refsnes")
 
 my_function("Emil")
