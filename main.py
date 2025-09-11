@@ -3,4 +3,21 @@ def my_function(fname):
 
 my_function("Emil")
 my_function("Tobias")
-my_function("Linus")
+my_function("Linus" )
+
+
+def my_function():
+  print("Hello from a function")
+
+my_function()
+
+num1 = 12
+num2 = 5
+
+print(f"Addition: {num1 + num2}")
+print(f"Subtraction: {num1 - num2}")
+print(f"Multiplication: {num1 * num2}")
+print(f"Division: {num1 / num2}")
+print(f"Floor Division: {num1 // num2}")
+print(f"Modulus: {num1 % num2}")
+print(f"Exponentiation: {num1 ** num2}")
